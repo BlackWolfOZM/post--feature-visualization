@@ -15,13 +15,13 @@
     "d3": "^4.9.1",
     "d3-scale-chromatic": "^1.1.1",
     "file-loader": "^0.9.0",
-    "html-webpack-plugin": "^2.29.0",
+    "html-webpack-plugin": "^4.0.0",
     "numpy-loader": "^1.2.0",
     "svelte": "1.38.0",
     "svelte-extras": "^1.4.1",
     "svelte-loader": "^2.1.0",
-    "webpack": "^3.1.0",
-    "webpack-dev-server": "^2.5.0"
+    "webpack": "^5.0.0",
+    "webpack-dev-server": "^4.0.0"
   },
   "devDependencies": {
     "compression-webpack-plugin": "^1.0.1",
